@@ -1,9 +1,12 @@
 # MidJourney-AI-Image-Generator-API-NodeJS
-An API to automate image generation using MidJourneyV4 model in Stable Diffusion
+An API NodeJS script to automate image generation using MidJourneyV4 model in Stable Diffusion.
 
 ##
 <h3>Subscribe to my Youtube! Net2Dev</h3>
 <img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40">
+
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/Midjourney_Emblem.png" width="350" height="350">
+
 
 ** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
 ** USE IT AT YOUR OWN RISK** **I'M NOT RESPONSIBLE FOR ANY USE, ISSUES ETC.. **
