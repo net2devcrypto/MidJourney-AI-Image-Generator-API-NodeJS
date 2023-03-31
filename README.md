@@ -3,7 +3,7 @@ An API NodeJS script to automate image generation using MidJourneyV4 model in St
 
 ##
 <h3>Subscribe to my Youtube! Net2Dev</h3>
-<a href="https://youtube.net2dev.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+<a href="http://youtube.net2dev.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
 <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/Midjourney_Emblem.png" width="350" height="350">
 
