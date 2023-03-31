@@ -2,9 +2,10 @@
 An API to automate image generation using MidJourneyV4 model in Stable Diffusion
 
 ##
+<h3>Subscribe to my Youtube! Net2Dev</h3>
+<img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40">
 
 ** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
-
 ** USE IT AT YOUR OWN RISK** **I'M NOT RESPONSIBLE FOR ANY USE, ISSUES ETC.. **
 
 
@@ -49,7 +50,7 @@ Add how many pics you want to generate:
 const numberOfPics = '3'
 ```
 
-## Step 5
+## Step 6
 - Save and execute in your terminal:
 
 ```shell
