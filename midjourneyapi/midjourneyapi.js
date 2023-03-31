@@ -20,7 +20,7 @@ Steps,
 - Add how many pics you want
 - Save and execute in your terminal:
 
-node midjourneynft.js 
+node midjourneyapi.js 
 
 The generated art should be available in the "pics" folder.
 
