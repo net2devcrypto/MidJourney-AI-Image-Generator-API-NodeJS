@@ -37,7 +37,7 @@ Update midjourneyapi.js and add your api key:
 const apiKey = 'REPLACE-WITH-YOUR-API-KEY';
 ```
 
-## Step 4
+## Step 5
 
 Add your prompt description of what you want to generate.
 
@@ -45,7 +45,7 @@ Add your prompt description of what you want to generate.
 const prompt = 'a dog walking on the beach with sunglasses, portrait, ultra realistic, futuristic background , concept art, intricate details, highly detailed';
 ```
 
-## Step 5
+## Step 6
 
 Add how many pics you want to generate:
 
@@ -53,7 +53,7 @@ Add how many pics you want to generate:
 const numberOfPics = '3'
 ```
 
-## Step 6
+## Step 7
 - Save and execute in your terminal:
 
 ```shell
